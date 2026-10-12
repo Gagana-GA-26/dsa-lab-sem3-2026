@@ -3,7 +3,7 @@ title: PyStackCalc — Build Your Own Terminal Calculator
 week: 1
 category: Stacks
 start: 2026-09-18
-end: 2026-10-11
+end: 2026-10-16
 ---
 
 **File to Submit:** `pystackcalc.py`
