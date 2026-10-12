@@ -163,14 +163,18 @@ Windows, run the commands in **Git Bash**.
 | Bot says not open yet | The assignment's window hasn't started. Open the PR on or after the start date. |
 | Folder is `students/<roll-no>` but PR still rejected | The roll number must match the roster exactly, including upper/lower case. |
 
-Keeping your fork's `main` up to date is optional since you branch from
-`upstream/main`, but if you want to:
+### After your PR is merged
+
+Merged PRs are added to this repo, so your fork falls behind. Before
+starting the next lab, update it once:
 
 ```bash
 git switch main
 git pull upstream main
 git push origin main
 ```
+
+Or on GitHub: open your fork and click **Sync fork** → **Update branch**.
 
 ---
 
